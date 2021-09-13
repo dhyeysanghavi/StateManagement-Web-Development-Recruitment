@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+# State Management and API handling
+---
+This is one of the tasks that the recuits are supposed to do for the Phase 2 part of the Web Development Recruitment process.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Guidelines
+---
+Following are the guideline that yall are supposed to follow to meet the expectations for this task:
 
-## Available Scripts
+<details>
+  <summary>Make a new branch with your name</summary>
+  <img src="https://user-images.githubusercontent.com/51255935/133150462-9061a989-997d-4bfc-b496-d20a9f9be9d1.png" />
 
-In the project directory, you can run:
+  ```
+  Copy the url and clone it using: git clone <url>
+  ```
+  
+</details>
 
-### `npm start`
+<details>
+  <summary>Clone this repo and switch the branch to your newly created one</summary>
+  <img src="https://user-images.githubusercontent.com/51255935/133149655-299f13ec-52b2-407d-af85-83137eab4d8d.png" />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  
+  ```
+  Copy the url and clone it using: git clone <url>
+  Swap branch: git checkout testUser
+  ```
+  
+</details>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<details>
+  <summary>Install the dependencies and start the local development server</summary>
+  
+  ```
+  Go into the folder like: cd folderName
+  Install dependencies using: npm i
+  Start dev server using: npm start
+  ```
+</details>
 
-### `npm test`
+<details>
+  <summary>Write the 2 basic functions that'll test your state management logic and API handling process in React. (Even if you aren't familiar with React, it doesn't matter. The basic code base is already done. You just have to complete 2 function - see the instructions nested)</summary>
+  
+  - [x] ```getData()``` which is responsible to get the data from the endpoint: https://jsonplaceholder.typicode.com/albums
+  - [x] ```deleteCard()``` which is responsible to removing an object from the state on the click of the button
+  
+</details>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<details>
+  <summary>Done? Submit a PR along with your name and screenshots for the same.</summary>
+  
+  Once done, just submit a PR to the ```main``` branch and wait for one of the Co-Lead to go through it. That's your submission for Phase 2
+</details>
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<details>
+  <summary>Have any issues? Contact one of the Co-Leads (Pratit, Aajinkya)</summary>
+  
+  - [x] Aajinkya Singh: https://github.com/aajinkya1203
+  - [x] Pratit Bandiwadekar: https://github.com/Pratit23
+</details>
