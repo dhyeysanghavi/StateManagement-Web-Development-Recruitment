@@ -1,6 +1,6 @@
 # State Management and API handling
 ---
-This is one of the tasks that the recuits are supposed to do for the Phase 2 part of the Web Development Recruitment process.
+This is one of the tasks that the recruits are supposed to do for the Phase 2 part of the Web Development Recruitment process.
 
 ## Guidelines
 ---
