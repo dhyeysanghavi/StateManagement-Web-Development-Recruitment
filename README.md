@@ -5,6 +5,7 @@ This is one of the tasks that the recruits are supposed to do for the Phase 2 pa
 ## Guidelines
 ---
 Following are the guideline that yall are supposed to follow to meet the expectations for this task:
+(You can expand each step for detailed instructions)
 
 <details>
   <summary>Make a new branch with your name</summary>
