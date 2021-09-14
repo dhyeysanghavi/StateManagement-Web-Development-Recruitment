@@ -10,7 +10,7 @@ Following are the guideline that yall are supposed to follow to meet the expecta
 (You can expand each step for detailed instructions)
 
 <details>
-  <summary>Make a new branch with your name</summary>
+  <summary>Fork the repo and then clone it</summary>
   <img src="https://user-images.githubusercontent.com/51255935/133150462-9061a989-997d-4bfc-b496-d20a9f9be9d1.png" />
 
   ```
@@ -50,7 +50,7 @@ Following are the guideline that yall are supposed to follow to meet the expecta
 </details>
 
 <details>
-  <summary>Done? Submit a PR along with your name and screenshots for the same.</summary>
+  <summary>Done? Submit a PR along with your name and screenshots for the same to our repo from your forked repo.</summary>
   
   Once done, just submit a PR to the ```main``` branch and wait for one of the Co-Lead to go through it. That's your submission for Phase 2
 </details>
